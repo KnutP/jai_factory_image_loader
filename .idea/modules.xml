@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/JaiFactoryImageLoader.iml" filepath="$PROJECT_DIR$/.idea/JaiFactoryImageLoader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jai_image_loader.iml" filepath="$PROJECT_DIR$/.idea/jai_image_loader.iml" />
     </modules>
   </component>
 </project>
